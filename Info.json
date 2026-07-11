@@ -17,6 +17,12 @@
   "InstallRule": [
     {
       "Type": "PalSchema",
+      "Targets": [
+        "./PalSchema/"
+      ]
+    },
+    {
+      "Type": "PalSchema",
       "IsServer": true,
       "Targets": [
         "./PalSchema/"
