@@ -1,0 +1,26 @@
+{
+  "ModName": "Crafting100x",
+  "PackageName": "Crafting100x",
+  "Thumbnail": "thumbnail.jpg",
+  "Version": "1.0.0",
+  "DebugMode": false,
+  "MinRevision": 82182,
+  "Author": "YYuX",
+  "Dependencies": [
+    "PalSchema",
+    "UE4SSExperimentalPW"
+  ],
+  "Tags": [
+    "PalSchema",
+    "UE4SS"
+  ],
+  "InstallRule": [
+    {
+      "Type": "PalSchema",
+      "IsServer": true,
+      "Targets": [
+        "./PalSchema/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Crafting100x",
+  "authors": [
+    "YYuX"
+  ],
+  "description": "Multiplies crafted output for Pal Spheres, ammunition, arrows, and selected advanced materials using incremental PalSchema patches.",
+  "version": "1.0.0"
+}

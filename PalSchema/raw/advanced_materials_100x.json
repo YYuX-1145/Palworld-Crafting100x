@@ -1,0 +1,40 @@
+{
+  "DT_ItemRecipeDataTable_Common": {
+    "CarbonFiber": {
+      "Product_Count": 100
+    },
+    "CarbonFiber2": {
+      "Product_Count": 100
+    },
+    "Bio_Coolant": {
+      "Product_Count": 100
+    },
+    "Corrosive_Solvent": {
+      "Product_Count": 100
+    },
+    "Bio_Battery": {
+      "Product_Count": 100
+    },
+    "Thermal_Core": {
+      "Product_Count": 100
+    },
+    "Computer": {
+      "Product_Count": 100
+    },
+    "AIcore": {
+      "Product_Count": 100
+    },
+    "Plastic": {
+      "Product_Count": 1
+    },
+    "StainlessSteel": {
+      "Product_Count": 1
+    },
+    "SkyislandIngot": {
+      "Product_Count": 1
+    },
+    "WorldTreeIngot": {
+      "Product_Count": 1
+    }
+  }
+}

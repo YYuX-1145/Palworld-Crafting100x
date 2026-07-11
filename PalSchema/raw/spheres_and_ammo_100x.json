@@ -1,0 +1,136 @@
+{
+  "DT_ItemRecipeDataTable_Common": {
+    "PalSphere": {
+      "Product_Count": 100
+    },
+    "PalSphere_Mega": {
+      "Product_Count": 100
+    },
+    "PalSphere_Giga": {
+      "Product_Count": 100
+    },
+    "PalSphere_Tera": {
+      "Product_Count": 100
+    },
+    "PalSphere_Master": {
+      "Product_Count": 100
+    },
+    "PalSphere_Legend": {
+      "Product_Count": 100
+    },
+    "PalSphere_Ultimate": {
+      "Product_Count": 100
+    },
+    "PalSphere_Exotic": {
+      "Product_Count": 100
+    },
+    "PalSphere_Ancient_1": {
+      "Product_Count": 100
+    },
+    "PalSphere_Ancient_2": {
+      "Product_Count": 100
+    },
+    "Arrow": {
+      "Product_Count": 1000
+    },
+    "Arrow_Poison": {
+      "Product_Count": 1000
+    },
+    "Arrow_Fire": {
+      "Product_Count": 1000
+    },
+    "ReinforcedArrow": {
+      "Product_Count": 1000
+    },
+    "SFArrow": {
+      "Product_Count": 1000
+    },
+    "RoughBullet": {
+      "Product_Count": 2000
+    },
+    "HandgunBullet": {
+      "Product_Count": 2000
+    },
+    "RifleBullet": {
+      "Product_Count": 1000
+    },
+    "ShotgunBullet": {
+      "Product_Count": 1000
+    },
+    "AssaultRifleBullet": {
+      "Product_Count": 2000
+    },
+    "ExplosiveBullet": {
+      "Product_Count": 1000
+    },
+    "InkBullet": {
+      "Product_Count": 1000
+    },
+    "FlamethrowerBullet": {
+      "Product_Count": 1000
+    },
+    "MissileBullet": {
+      "Product_Count": 1000
+    },
+    "GrenadeBullet": {
+      "Product_Count": 1000
+    },
+    "GatlingBullet": {
+      "Product_Count": 5000
+    },
+    "MeteorBullet": {
+      "Product_Count": 1000
+    },
+    "LaserBullet": {
+      "Product_Count": 2000
+    },
+    "EnergyLauncherBullet": {
+      "Product_Count": 1000
+    },
+    "LaserGatlingBullet": {
+      "Product_Count": 5000
+    },
+    "ChargeLaserRifleBullet": {
+      "Product_Count": 1000
+    },
+    "OverheatRifleBullet": {
+      "Product_Count": 2000
+    },
+    "EnergyShotgunBullet": {
+      "Product_Count": 1000
+    },
+    "PalDopingShotBullet": {
+      "Product_Count": 1000
+    },
+    "WidePenetrateShotgunBullet": {
+      "Product_Count": 1000
+    },
+    "ElectricArcAssaultRifleBullet": {
+      "Product_Count": 2000
+    },
+    "BeamLauncherBullet": {
+      "Product_Count": 1000
+    },
+    "SkyBowArrow": {
+      "Product_Count": 1000
+    },
+    "SkySubmachineGunBullet": {
+      "Product_Count": 2000
+    },
+    "SkyShotgunBullet": {
+      "Product_Count": 1000
+    },
+    "SkyAssaultRifleBullet": {
+      "Product_Count": 2000
+    },
+    "SkyGrenadeLauncherBullet": {
+      "Product_Count": 1000
+    },
+    "SkyLightBullet": {
+      "Product_Count": 1000
+    },
+    "SkyHeavyBullet": {
+      "Product_Count": 1000
+    }
+  }
+}
