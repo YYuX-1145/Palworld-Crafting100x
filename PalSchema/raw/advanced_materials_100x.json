@@ -24,10 +24,28 @@
     "AIcore": {
       "Product_Count": 100
     },
+    "Processed_Wood": {
+      "Product_Count": 1
+    },
+    "HighGrade_Processed_Wood": {
+      "Product_Count": 1
+    },
+    "CopperIngot": {
+      "Product_Count": 1
+    },
+    "IronIngot": {
+      "Product_Count": 1
+    },
+    "StealIngot": {
+      "Product_Count": 1
+    },
     "Plastic": {
       "Product_Count": 1
     },
     "StainlessSteel": {
+      "Product_Count": 1
+    },
+    "ManganeseIngot": {
       "Product_Count": 1
     },
     "SkyislandIngot": {
