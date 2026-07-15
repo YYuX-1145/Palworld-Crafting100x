@@ -131,6 +131,9 @@
     },
     "SkyHeavyBullet": {
       "Product_Count": 1000
+    },
+    "WingGlider_Fuel": {
+      "Product_Count": 100
     }
   }
 }
